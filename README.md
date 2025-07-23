@@ -11,8 +11,9 @@ DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-🔶 Description
-For my Codtech IT Solutions Internship Task-1, I worked on Big Data Analysis using PySpark to demonstrate my ability to handle, process, and derive meaningful insights from large-scale datasets efficiently. The objective of this task was to familiarise myself with distributed data processing frameworks like PySpark and understand their applications in real business scenarios.
+~Description:
+
+I worked on Big Data Analysis using PySpark to demonstrate my ability to handle, process, and derive meaningful insights from large-scale datasets efficiently. The objective of this task was to familiarise myself with distributed data processing frameworks like PySpark and understand their applications in real business scenarios.
 
 I began the task by understanding the requirements, which included performing analysis on a large dataset using tools like PySpark or Dask to demonstrate scalability. I chose PySpark due to its wide industry use in handling big data with its powerful cluster computing capabilities built on top of Apache Spark.
 
